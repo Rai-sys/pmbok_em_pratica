@@ -18,7 +18,7 @@ A integração do PMBOK com metodologias como Agile, Scrum e Lean permite uma ab
 
 ## Link aos projetos
 
- - [Aplicação PMBOK em Projetos Ágeis](https://github.com/Rai-sys/pmbok_em_pratica/tree/aplicacao_pmbok_em_projetos_ageis)
- - [Casos de Sucesso na Aplicação do PMBOK](https://github.com/Rai-sys/pmbok_em_pratica/tree/casos_-de_sucesso_-na_-aplica%C3%A7%C3%A3o_-do_pmbok)
- - [Limitações do PMBOK em Projetos Não Tradicionais](https://github.com/Rai-sys/pmbok_em_pratica/tree/Limita%C3%A7%C3%B5es_do_PMBOK)
- - [Integração do PMBOK com Outras Metodologias](https://github.com/Rai-sys/pmbok_em_pratica/tree/integracao_do_pmbok_com_outras_metodologias)
+ - [Aplicação PMBOK em Projetos Ágeis](https://github.com/Rai-sys/pmbok_em_pratica/blob/main/aplicacao_pmbok_projeto_ageis.md)
+ - [Casos de Sucesso na Aplicação do PMBOK](https://github.com/Rai-sys/pmbok_em_pratica/blob/main/Casos_de_sucesso_na_aplica%C3%A7%C3%A3o_do_pmbok.md)
+ - [Limitações do PMBOK em Projetos Não Tradicionais](https://github.com/Rai-sys/pmbok_em_pratica/blob/Limita%C3%A7%C3%B5es_do_PMBOK/Limita%C3%A7%C3%B5es_do_PMBOK.md)
+ - [Integração do PMBOK com Outras Metodologias](https://github.com/Rai-sys/pmbok_em_pratica/blob/main/integracaoPmbok1.md)
